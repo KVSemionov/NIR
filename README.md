@@ -66,7 +66,8 @@ python -m pip install -r requirements.txt
 Если команда `pip` не находится, используйте именно:
 
 ```bash
-python -m pip install -r requirements.txt
+python --version
+python -m pip --version
 ```
 
 ## Обучение модели
